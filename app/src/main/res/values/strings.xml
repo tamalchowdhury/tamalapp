@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tamal App</string>
+    <string name="first_paragraph">Tamal Anwar Chowdhury is a software engineer from Bangladesh who loves to create things. He’s a self-taught developer and studied computer science in college. Tamal uses JavaScript, ReactJS, and NodeJS to build software.</string>
+    <string name="second_paragraph">Tamal is currently a software consultant at a freight company in Singapore and also works as a technical writer at Digital Ocean. When he’s not working, he enjoys making technical articles on his blog, tamalweb.com, and producing videos about technology. Tamal is very active in his local developer community and goes to meetups.</string>
+    <string name="third_paragraph">In his free time, Tamal likes to watch funny YouTube videos with his siblings. He’s also recently gotten into playing chess and has an ELO rating of 1200 on Chess.com.</string>
+    <string name="under_const_text">এখন পর্যন্ত এই টুকুই। আমি আরো যত শিখবো, এই এপটা আপডেট করতে থাকবো। এই এপে আমার সব ডিটেইলস, লিংক, প্রজেক্টগুলা, নতুন ভিডিও, নিউজ আপডেট, আমারে ডাইরেক্ট কন্টাক করার ব্যাবস্থা, আর লেটেস্ট ইভেন্টের আর মিটাপের খবরাখবর থাকবে।</string>
+    <string name="author_name">Tamal Anwar Chowdhury</string>
+    <string name="article_title">Tamal Anwar Chowdhury</string>
+</resources>
